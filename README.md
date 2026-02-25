@@ -1,7 +1,5 @@
-# LSM-Tree
-# LSM-Tree Storage Engine (Learning Project)
+# LSM-Tree Storage Engine
 
-**Status:** Planning / Early Development  
 **Language:** Go  
 **Goal:** Understand how Cassandra and RocksDB work under the hood
 
@@ -66,7 +64,6 @@ Goal is to understand:
 
 ## Resources
 
-### Theory:
 - DDIA Chapter 3: Storage and Retrieval (LSM-trees section)
 - "LSM-based Storage Techniques: A Survey" paper
 - RocksDB architecture documentation
